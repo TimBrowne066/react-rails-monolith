@@ -1,0 +1,3 @@
+class CerealsController < ApplicationController
+
+end

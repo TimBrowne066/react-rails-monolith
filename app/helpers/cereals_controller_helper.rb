@@ -1,0 +1,2 @@
+module CerealsControllerHelper
+end
